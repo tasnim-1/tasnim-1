@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tesnim Hamouda 😊, and I'm a software engineering student 🖥️📚 from Tunisia 🇹🇳!</h2>
+<h2 align="left">Hi 👋! I'm Tesnim Hamouda 😊, a 🇹🇳 MSc Student in Data Science with a BSc in Software Engineering 👩‍💻. I'm passionate about Data Science, Machine Learning, and Artificial Intelligence 🤖📊, and I'm currently looking for a PFE internship to apply my skills to real-world projects! 🚀</h2>
 
 ###
 
